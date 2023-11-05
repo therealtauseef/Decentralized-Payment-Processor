@@ -8,7 +8,7 @@ This project consists of a Flask API that handles user accounts, transactions, a
 
 ## Prerequisites
 Before running the project, make sure you have the following prerequisites installed:
-- Python 3.x
+- Python 3
 - Flask
 - Flask-JWT-Extended
 - Flask-PyMongo
